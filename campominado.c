@@ -10,6 +10,8 @@ int main(void) {
 
 //TESTE EDVALDO 
 printf("Hello day");
+//TESTE 1
+printf("Hello, world\n");
   //Uma mina é revelada: nesse caso, jogo encerra com a derrota do usuário;
 
 
