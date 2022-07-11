@@ -3,13 +3,13 @@
 int main(void) { 
   //campo
   int linha, coluna;
-  scanf("%s", &linha);
-  scanf("%s", &coluna);
+  scanf("%i", &linha);
+  scanf("%i", &coluna);
   char campo[linha][coluna];
   //revelar todas as células sem revelar uma das minas.
 
-//TESTE EDVALDO
-
+//TESTE EDVALDO 
+printf("Hello day");
   //Uma mina é revelada: nesse caso, jogo encerra com a derrota do usuário;
 
 
