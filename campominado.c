@@ -8,7 +8,7 @@ int main(void) {
   char campo[linha][coluna];
   //revelar todas as células sem revelar uma das minas.
 
-
+//TESTE EDVALDO
 
   //Uma mina é revelada: nesse caso, jogo encerra com a derrota do usuário;
 
